@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyTreeView.qml</file>
+        <file>collapse.png</file>
+        <file>expansion.png</file>
+        <file>folder.png</file>
+        <file>loadFile.png</file>
+        <file>FileMgrForm.qml</file>
+        <file>InputDialog.qml</file>
+        <file>MyComboBox.qml</file>
+    </qresource>
+</RCC>
